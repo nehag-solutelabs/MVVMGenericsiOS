@@ -29,4 +29,6 @@
 
 ***
 
-Communication Diagram
+**Communication Diagram**
+
+![alt text](https://github.com/nehag-solutelabs/MVVMGenericsiOS/blob/master/MVVMFlow.png?raw=true)
